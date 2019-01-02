@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/vue-server-renderer/package.json",
+        "packages/vue-template-compiler/package.json",
+        "packages/weex-template-compiler/package.json",
+        "packages/weex-vue-framework/package.json"
+      ]
+    }
+  }
+}
